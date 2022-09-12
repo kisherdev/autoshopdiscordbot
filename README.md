@@ -1,1 +1,1 @@
-# autoshopdiscordbot
+# Бот по авто-продажам на языке Discord.JS
